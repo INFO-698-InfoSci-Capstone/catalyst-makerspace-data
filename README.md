@@ -49,7 +49,7 @@ This capstone project analyzes student credit utilization at the University of A
 ## 👩‍💻 Contributors
 - **Ashwini R Jannu**, MS in Information Science, University of Arizona  
 
-- **Mentors**: Jennifer Nichols & Hana Lipke, CATalyst Studios  
+- **Mentors**: Jennifer Nichols & Hana Lipke, CATalyst Studios, University of Arizona Libraries
 - **Instructor**: Dr. Greg Chism
 
 ## 📅 Timeline
