@@ -35,7 +35,7 @@ This capstone project analyzes student credit utilization at the University of A
 ## ✅ Deliverables
 - 📄 Final Capstone Report (PDF)
 - 📊 Capstone Presentation PPT
-- 📊 WIDS Presentation PPT
+- 📊 WiDS Presentation PPT
 - 📒 Jupyter Notebook for Data Analysis
 - 📈 Visualization assets (charts & figures)
 
